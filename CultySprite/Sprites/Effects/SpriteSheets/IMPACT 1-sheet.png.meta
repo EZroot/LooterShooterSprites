@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5f970ef2e461bd244a355f62fba5e12e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6356627614588032585
+    second: IMPACT 1-sheet_0
+  - first:
+      213: -3102700938431688544
+    second: IMPACT 1-sheet_1
+  - first:
+      213: -3898301139938481753
+    second: IMPACT 1-sheet_2
+  - first:
+      213: 2627088007540885436
+    second: IMPACT 1-sheet_3
+  - first:
+      213: -2222299501445591041
+    second: IMPACT 1-sheet_4
+  - first:
+      213: -7516470543846034355
+    second: IMPACT 1-sheet_5
+  - first:
+      213: -8532096053353342914
+    second: IMPACT 1-sheet_6
+  - first:
+      213: 4519001981434432673
+    second: IMPACT 1-sheet_7
+  - first:
+      213: 3674476890050943578
+    second: IMPACT 1-sheet_8
+  - first:
+      213: -552160610389608580
+    second: IMPACT 1-sheet_9
+  - first:
+      213: 614119940420074006
+    second: IMPACT 1-sheet_10
+  - first:
+      213: 5668264706029518536
+    second: IMPACT 1-sheet_11
+  - first:
+      213: 6172792675342066563
+    second: IMPACT 1-sheet_12
+  - first:
+      213: 2524287334595941018
+    second: IMPACT 1-sheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 101
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9aa070dd8b8c7a0800000000000000
+      internalID: -6356627614588032585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 102
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a012807fedf0f4d0800000000000000
+      internalID: -3102700938431688544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 23
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9677e64c376e9c0800000000000000
+      internalID: -3898301139938481753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 20
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7c92bbf9a457420800000000000000
+      internalID: 2627088007540885436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 28
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffcecfa06ec821e0800000000000000
+      internalID: -2222299501445591041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 20
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44be554dd120b790800000000000000
+      internalID: -7516470543846034355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e389c5e28d7e79980800000000000000
+      internalID: -8532096053353342914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 492
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac8fa20c58b6be30800000000000000
+      internalID: 4519001981434432673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 100
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a5ed6634d5ef230800000000000000
+      internalID: 3674476890050943578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 13
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77b3cea9d45658f0800000000000000
+      internalID: -552160610389608580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 95
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61af83205dac58800800000000000000
+      internalID: 614119940420074006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cef5c7e7b8b9ae40800000000000000
+      internalID: 5668264706029518536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383a5edbb3a2aa550800000000000000
+      internalID: 6172792675342066563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMPACT 1-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92db91e4f1180320800000000000000
+      internalID: 2524287334595941018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IMPACT 1-sheet_0: -6356627614588032585
+      IMPACT 1-sheet_1: -3102700938431688544
+      IMPACT 1-sheet_10: 614119940420074006
+      IMPACT 1-sheet_11: 5668264706029518536
+      IMPACT 1-sheet_12: 6172792675342066563
+      IMPACT 1-sheet_13: 2524287334595941018
+      IMPACT 1-sheet_2: -3898301139938481753
+      IMPACT 1-sheet_3: 2627088007540885436
+      IMPACT 1-sheet_4: -2222299501445591041
+      IMPACT 1-sheet_5: -7516470543846034355
+      IMPACT 1-sheet_6: -8532096053353342914
+      IMPACT 1-sheet_7: 4519001981434432673
+      IMPACT 1-sheet_8: 3674476890050943578
+      IMPACT 1-sheet_9: -552160610389608580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

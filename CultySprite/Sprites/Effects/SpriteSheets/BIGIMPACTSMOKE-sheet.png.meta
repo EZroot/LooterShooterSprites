@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: ba34e3f521e3f8940bec2d9d44ce0b5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4167764652419809958
+    second: BIGIMPACTSMOKE-sheet_0
+  - first:
+      213: 4097749093319882439
+    second: BIGIMPACTSMOKE-sheet_1
+  - first:
+      213: -2414237395437266659
+    second: BIGIMPACTSMOKE-sheet_2
+  - first:
+      213: 1653302047948028459
+    second: BIGIMPACTSMOKE-sheet_3
+  - first:
+      213: 823216448233444470
+    second: BIGIMPACTSMOKE-sheet_4
+  - first:
+      213: 3647066858996473287
+    second: BIGIMPACTSMOKE-sheet_5
+  - first:
+      213: -9067737570380617771
+    second: BIGIMPACTSMOKE-sheet_6
+  - first:
+      213: -8856688950231053691
+    second: BIGIMPACTSMOKE-sheet_7
+  - first:
+      213: 210659951161055089
+    second: BIGIMPACTSMOKE-sheet_8
+  - first:
+      213: 4205827035101056747
+    second: BIGIMPACTSMOKE-sheet_9
+  - first:
+      213: -1025088415933413706
+    second: BIGIMPACTSMOKE-sheet_10
+  - first:
+      213: 555282812861309946
+    second: BIGIMPACTSMOKE-sheet_11
+  - first:
+      213: -5275458463911363406
+    second: BIGIMPACTSMOKE-sheet_12
+  - first:
+      213: -7109765621570909836
+    second: BIGIMPACTSMOKE-sheet_13
+  - first:
+      213: 3130509451895276990
+    second: BIGIMPACTSMOKE-sheet_14
+  - first:
+      213: -7001255652868912586
+    second: BIGIMPACTSMOKE-sheet_15
+  - first:
+      213: 4119532226427835042
+    second: BIGIMPACTSMOKE-sheet_16
+  - first:
+      213: 8611553548033705485
+    second: BIGIMPACTSMOKE-sheet_17
+  - first:
+      213: -7379898323659261280
+    second: BIGIMPACTSMOKE-sheet_18
+  - first:
+      213: -8925405654567715170
+    second: BIGIMPACTSMOKE-sheet_19
+  - first:
+      213: 4373938906063117492
+    second: BIGIMPACTSMOKE-sheet_20
+  - first:
+      213: 8858946184314732276
+    second: BIGIMPACTSMOKE-sheet_21
+  - first:
+      213: 511504933565670579
+    second: BIGIMPACTSMOKE-sheet_22
+  - first:
+      213: -2291865839014432359
+    second: BIGIMPACTSMOKE-sheet_23
+  - first:
+      213: -8952972448444456632
+    second: BIGIMPACTSMOKE-sheet_24
+  - first:
+      213: -6000304647514590508
+    second: BIGIMPACTSMOKE-sheet_25
+  - first:
+      213: -4636796237753948967
+    second: BIGIMPACTSMOKE-sheet_26
+  - first:
+      213: 4138625702296965102
+    second: BIGIMPACTSMOKE-sheet_27
+  - first:
+      213: 8964196846943154187
+    second: BIGIMPACTSMOKE-sheet_28
+  - first:
+      213: -7136455202491822116
+    second: BIGIMPACTSMOKE-sheet_29
+  - first:
+      213: -6797887686685830124
+    second: BIGIMPACTSMOKE-sheet_30
+  - first:
+      213: 7364475693330424886
+    second: BIGIMPACTSMOKE-sheet_31
+  - first:
+      213: -8478840554579209007
+    second: BIGIMPACTSMOKE-sheet_32
+  - first:
+      213: 7184622305003637841
+    second: BIGIMPACTSMOKE-sheet_33
+  - first:
+      213: -563892530293038521
+    second: BIGIMPACTSMOKE-sheet_34
+  - first:
+      213: 5520778564769708282
+    second: BIGIMPACTSMOKE-sheet_35
+  - first:
+      213: -50231257902802012
+    second: BIGIMPACTSMOKE-sheet_36
+  - first:
+      213: -1214705575708823166
+    second: BIGIMPACTSMOKE-sheet_37
+  - first:
+      213: -6951607952831684322
+    second: BIGIMPACTSMOKE-sheet_38
+  - first:
+      213: -192944958804023643
+    second: BIGIMPACTSMOKE-sheet_39
+  - first:
+      213: 6589258807509209227
+    second: BIGIMPACTSMOKE-sheet_40
+  - first:
+      213: -9106009669119901607
+    second: BIGIMPACTSMOKE-sheet_41
+  - first:
+      213: 3709914402388739665
+    second: BIGIMPACTSMOKE-sheet_42
+  - first:
+      213: 2378920620530545595
+    second: BIGIMPACTSMOKE-sheet_43
+  - first:
+      213: -184244153487245004
+    second: BIGIMPACTSMOKE-sheet_44
+  - first:
+      213: -4202317199018173605
+    second: BIGIMPACTSMOKE-sheet_45
+  - first:
+      213: 4527168258991776162
+    second: BIGIMPACTSMOKE-sheet_46
+  - first:
+      213: -1063243576195812794
+    second: BIGIMPACTSMOKE-sheet_47
+  - first:
+      213: 454941190668589037
+    second: BIGIMPACTSMOKE-sheet_48
+  - first:
+      213: -778079067326000281
+    second: BIGIMPACTSMOKE-sheet_49
+  - first:
+      213: 8536989737147723726
+    second: BIGIMPACTSMOKE-sheet_50
+  - first:
+      213: -1186376618451683393
+    second: BIGIMPACTSMOKE-sheet_51
+  - first:
+      213: -2616159423804845379
+    second: BIGIMPACTSMOKE-sheet_52
+  - first:
+      213: 5009986694038068855
+    second: BIGIMPACTSMOKE-sheet_53
+  - first:
+      213: 3682278656812815747
+    second: BIGIMPACTSMOKE-sheet_54
+  - first:
+      213: -4224577603660862848
+    second: BIGIMPACTSMOKE-sheet_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 5
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d761161202926c0800000000000000
+      internalID: -4167764652419809958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 23
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6b20ee6112ed830800000000000000
+      internalID: 4097749093319882439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 34
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d195f7941e7ee7ed0800000000000000
+      internalID: -2414237395437266659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 36
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a3e5af375b1f610800000000000000
+      internalID: 1653302047948028459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 40
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67496328ff6ac6b00800000000000000
+      internalID: 823216448233444470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 41
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd959a3cfbfc9230800000000000000
+      internalID: 3647066858996473287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7eff009bce82280800000000000000
+      internalID: -9067737570380617771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 47
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ac9531358b61580800000000000000
+      internalID: -8856688950231053691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 41
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1771b550c1a6ce200800000000000000
+      internalID: 210659951161055089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeceeda7691e5a30800000000000000
+      internalID: 4205827035101056747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 52
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6cbe0548726c1f0800000000000000
+      internalID: -1025088415933413706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af36a7ab6c2c4b700800000000000000
+      internalID: 555282812861309946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc3c374a7ec9c6b0800000000000000
+      internalID: -5275458463911363406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4794bf916d9055d90800000000000000
+      internalID: -7109765621570909836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb58836a2cdc17b20800000000000000
+      internalID: 3130509451895276990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 4
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a8d05f31b86de90800000000000000
+      internalID: -7001255652868912586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 5
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a25105dbb48b2930800000000000000
+      internalID: 4119532226427835042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 16
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06cdc27352628770800000000000000
+      internalID: 8611553548033705485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 29
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaf9c33395559990800000000000000
+      internalID: -7379898323659261280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 8
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e7a3398d6922480800000000000000
+      internalID: -8925405654567715170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 24
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc172dc24a53bc30800000000000000
+      internalID: 4373938906063117492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 36
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feb1603e9c41fa70800000000000000
+      internalID: 8858946184314732276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 31
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4aa0ae60b391700800000000000000
+      internalID: 511504933565670579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 9
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99131b88928a130e0800000000000000
+      internalID: -2291865839014432359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 40
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841eb963ef6a0c380800000000000000
+      internalID: -8952972448444456632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 38
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d274ccc6b2aabca0800000000000000
+      internalID: -6000304647514590508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 11
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4eec8736ac6afb0800000000000000
+      internalID: -4636796237753948967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 40
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef46bb162a5f6930800000000000000
+      internalID: 4138625702296965102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 154
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0039b6b989376c70800000000000000
+      internalID: 8964196846943154187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 22
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf8cfbcdc736fc90800000000000000
+      internalID: -7136455202491822116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 19
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414d61c6a2d09a1a0800000000000000
+      internalID: -6797887686685830124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 22
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63465f9df9fd33660800000000000000
+      internalID: 7364475693330424886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 25
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4512d307b155a80800000000000000
+      internalID: -8478840554579209007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 148
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c071fabe7e4b360800000000000000
+      internalID: 7184622305003637841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 29
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74223683bb6ac28f0800000000000000
+      internalID: -563892530293038521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 25
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af870b4badebd9c40800000000000000
+      internalID: 5520778564769708282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab1514efea8d4ff0800000000000000
+      internalID: -50231257902802012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2817035f6bf742fe0800000000000000
+      internalID: -1214705575708823166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11efa9e56de68f90800000000000000
+      internalID: -6951607952831684322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 6
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a84d0595825df0800000000000000
+      internalID: -192944958804023643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 12
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8053ba59ffb17b50800000000000000
+      internalID: 6589258807509209227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95006de9374f0a180800000000000000
+      internalID: -9106009669119901607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 15
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1568c753e734c7330800000000000000
+      internalID: 3709914402388739665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 24
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3339743bf930120800000000000000
+      internalID: 2378920620530545595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 21
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43143772bee617df0800000000000000
+      internalID: -184244153487245004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 27
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bd107b5ce5ea5c0800000000000000
+      internalID: -4202317199018173605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2
+        width: 93
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1e0abab8bb3de30800000000000000
+      internalID: 4527168258991776162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642f12bc9999e31f0800000000000000
+      internalID: -1063243576195812794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 10
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de79e7f3a96405600800000000000000
+      internalID: 454941190668589037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763ddd0f535b335f0800000000000000
+      internalID: -778079067326000281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf68dd5fea797670800000000000000
+      internalID: 8536989737147723726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7bb5f40c4298fe0800000000000000
+      internalID: -1186376618451683393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db252547dd881bbd0800000000000000
+      internalID: -2616159423804845379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e929baa5c078540800000000000000
+      internalID: 5009986694038068855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 4
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3859457cde41a1330800000000000000
+      internalID: 3682278656812815747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGIMPACTSMOKE-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 7
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a29bf5d094f55c0800000000000000
+      internalID: -4224577603660862848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BIGIMPACTSMOKE-sheet_0: -4167764652419809958
+      BIGIMPACTSMOKE-sheet_1: 4097749093319882439
+      BIGIMPACTSMOKE-sheet_10: -1025088415933413706
+      BIGIMPACTSMOKE-sheet_11: 555282812861309946
+      BIGIMPACTSMOKE-sheet_12: -5275458463911363406
+      BIGIMPACTSMOKE-sheet_13: -7109765621570909836
+      BIGIMPACTSMOKE-sheet_14: 3130509451895276990
+      BIGIMPACTSMOKE-sheet_15: -7001255652868912586
+      BIGIMPACTSMOKE-sheet_16: 4119532226427835042
+      BIGIMPACTSMOKE-sheet_17: 8611553548033705485
+      BIGIMPACTSMOKE-sheet_18: -7379898323659261280
+      BIGIMPACTSMOKE-sheet_19: -8925405654567715170
+      BIGIMPACTSMOKE-sheet_2: -2414237395437266659
+      BIGIMPACTSMOKE-sheet_20: 4373938906063117492
+      BIGIMPACTSMOKE-sheet_21: 8858946184314732276
+      BIGIMPACTSMOKE-sheet_22: 511504933565670579
+      BIGIMPACTSMOKE-sheet_23: -2291865839014432359
+      BIGIMPACTSMOKE-sheet_24: -8952972448444456632
+      BIGIMPACTSMOKE-sheet_25: -6000304647514590508
+      BIGIMPACTSMOKE-sheet_26: -4636796237753948967
+      BIGIMPACTSMOKE-sheet_27: 4138625702296965102
+      BIGIMPACTSMOKE-sheet_28: 8964196846943154187
+      BIGIMPACTSMOKE-sheet_29: -7136455202491822116
+      BIGIMPACTSMOKE-sheet_3: 1653302047948028459
+      BIGIMPACTSMOKE-sheet_30: -6797887686685830124
+      BIGIMPACTSMOKE-sheet_31: 7364475693330424886
+      BIGIMPACTSMOKE-sheet_32: -8478840554579209007
+      BIGIMPACTSMOKE-sheet_33: 7184622305003637841
+      BIGIMPACTSMOKE-sheet_34: -563892530293038521
+      BIGIMPACTSMOKE-sheet_35: 5520778564769708282
+      BIGIMPACTSMOKE-sheet_36: -50231257902802012
+      BIGIMPACTSMOKE-sheet_37: -1214705575708823166
+      BIGIMPACTSMOKE-sheet_38: -6951607952831684322
+      BIGIMPACTSMOKE-sheet_39: -192944958804023643
+      BIGIMPACTSMOKE-sheet_4: 823216448233444470
+      BIGIMPACTSMOKE-sheet_40: 6589258807509209227
+      BIGIMPACTSMOKE-sheet_41: -9106009669119901607
+      BIGIMPACTSMOKE-sheet_42: 3709914402388739665
+      BIGIMPACTSMOKE-sheet_43: 2378920620530545595
+      BIGIMPACTSMOKE-sheet_44: -184244153487245004
+      BIGIMPACTSMOKE-sheet_45: -4202317199018173605
+      BIGIMPACTSMOKE-sheet_46: 4527168258991776162
+      BIGIMPACTSMOKE-sheet_47: -1063243576195812794
+      BIGIMPACTSMOKE-sheet_48: 454941190668589037
+      BIGIMPACTSMOKE-sheet_49: -778079067326000281
+      BIGIMPACTSMOKE-sheet_5: 3647066858996473287
+      BIGIMPACTSMOKE-sheet_50: 8536989737147723726
+      BIGIMPACTSMOKE-sheet_51: -1186376618451683393
+      BIGIMPACTSMOKE-sheet_52: -2616159423804845379
+      BIGIMPACTSMOKE-sheet_53: 5009986694038068855
+      BIGIMPACTSMOKE-sheet_54: 3682278656812815747
+      BIGIMPACTSMOKE-sheet_55: -4224577603660862848
+      BIGIMPACTSMOKE-sheet_6: -9067737570380617771
+      BIGIMPACTSMOKE-sheet_7: -8856688950231053691
+      BIGIMPACTSMOKE-sheet_8: 210659951161055089
+      BIGIMPACTSMOKE-sheet_9: 4205827035101056747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

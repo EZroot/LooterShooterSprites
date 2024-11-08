@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: b96acd5af8f56c94e893f12e86fab16f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8358829741291840897
+    second: SIDE PUFF-sheet_0
+  - first:
+      213: -4830307356755956575
+    second: SIDE PUFF-sheet_1
+  - first:
+      213: 6511526870498182916
+    second: SIDE PUFF-sheet_2
+  - first:
+      213: -231633172505970419
+    second: SIDE PUFF-sheet_3
+  - first:
+      213: -6167445555733499896
+    second: SIDE PUFF-sheet_4
+  - first:
+      213: -822384306508783410
+    second: SIDE PUFF-sheet_5
+  - first:
+      213: 4032814029801754508
+    second: SIDE PUFF-sheet_6
+  - first:
+      213: -245618945129467320
+    second: SIDE PUFF-sheet_7
+  - first:
+      213: 2810635795449553759
+    second: SIDE PUFF-sheet_8
+  - first:
+      213: 5834905339984170466
+    second: SIDE PUFF-sheet_9
+  - first:
+      213: 6308041346697831253
+    second: SIDE PUFF-sheet_10
+  - first:
+      213: -4586302242537727876
+    second: SIDE PUFF-sheet_11
+  - first:
+      213: 3577203613124783194
+    second: SIDE PUFF-sheet_12
+  - first:
+      213: -1407960276707051545
+    second: SIDE PUFF-sheet_13
+  - first:
+      213: -9003399730043543096
+    second: SIDE PUFF-sheet_14
+  - first:
+      213: -1171662976015887042
+    second: SIDE PUFF-sheet_15
+  - first:
+      213: 3444721208893869154
+    second: SIDE PUFF-sheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a545423a87ffb80800000000000000
+      internalID: -8358829741291840897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acea941d0d47fcb0800000000000000
+      internalID: -4830307356755956575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407847d60379d5a50800000000000000
+      internalID: 6511526870498182916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09b59a5bd219ccf0800000000000000
+      internalID: -231633172505970419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80071fe81f4d86aa0800000000000000
+      internalID: -6167445555733499896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 11
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec020b594dd4694f0800000000000000
+      internalID: -822384306508783410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 14
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f8b8b4efe67f730800000000000000
+      internalID: 4032814029801754508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842b379eed2679cf0800000000000000
+      internalID: -245618945129467320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53a4c45d52610720800000000000000
+      internalID: 2810635795449553759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 12
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed49c7fd7fb9f050800000000000000
+      internalID: 5834905339984170466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553a662fe2aaa8750800000000000000
+      internalID: 6308041346697831253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7816f0e86e2a50c0800000000000000
+      internalID: -4586302242537727876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ceb89bbb7c4a130800000000000000
+      internalID: 3577203613124783194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7f309869be57ce0800000000000000
+      internalID: -1407960276707051545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 13
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c128e7c5af7d0380800000000000000
+      internalID: -9003399730043543096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 17
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3598162bba6dbfe0800000000000000
+      internalID: -1171662976015887042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE PUFF-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c8f5640bb1ecf20800000000000000
+      internalID: 3444721208893869154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SIDE PUFF-sheet_0: -8358829741291840897
+      SIDE PUFF-sheet_1: -4830307356755956575
+      SIDE PUFF-sheet_10: 6308041346697831253
+      SIDE PUFF-sheet_11: -4586302242537727876
+      SIDE PUFF-sheet_12: 3577203613124783194
+      SIDE PUFF-sheet_13: -1407960276707051545
+      SIDE PUFF-sheet_14: -9003399730043543096
+      SIDE PUFF-sheet_15: -1171662976015887042
+      SIDE PUFF-sheet_16: 3444721208893869154
+      SIDE PUFF-sheet_2: 6511526870498182916
+      SIDE PUFF-sheet_3: -231633172505970419
+      SIDE PUFF-sheet_4: -6167445555733499896
+      SIDE PUFF-sheet_5: -822384306508783410
+      SIDE PUFF-sheet_6: 4032814029801754508
+      SIDE PUFF-sheet_7: -245618945129467320
+      SIDE PUFF-sheet_8: 2810635795449553759
+      SIDE PUFF-sheet_9: 5834905339984170466
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

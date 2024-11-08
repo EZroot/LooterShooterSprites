@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: aff9f8fdfbd11fe4fa870f675481f8a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -380738535885832735
+    second: DASHSMOKE2-sheet_0
+  - first:
+      213: -3783448604151497282
+    second: DASHSMOKE2-sheet_1
+  - first:
+      213: 1405306263807483728
+    second: DASHSMOKE2-sheet_2
+  - first:
+      213: 8389111723896980069
+    second: DASHSMOKE2-sheet_3
+  - first:
+      213: -384323946363030925
+    second: DASHSMOKE2-sheet_4
+  - first:
+      213: -3886102724992912037
+    second: DASHSMOKE2-sheet_5
+  - first:
+      213: -5498351613105547951
+    second: DASHSMOKE2-sheet_6
+  - first:
+      213: 4807786998561658206
+    second: DASHSMOKE2-sheet_7
+  - first:
+      213: -4153595295422936761
+    second: DASHSMOKE2-sheet_8
+  - first:
+      213: -4094150748572715179
+    second: DASHSMOKE2-sheet_9
+  - first:
+      213: 1346079974410652048
+    second: DASHSMOKE2-sheet_10
+  - first:
+      213: -5474951666428714929
+    second: DASHSMOKE2-sheet_11
+  - first:
+      213: -8553046715249064052
+    second: DASHSMOKE2-sheet_12
+  - first:
+      213: 2231336215595931512
+    second: DASHSMOKE2-sheet_13
+  - first:
+      213: 8916100863230629823
+    second: DASHSMOKE2-sheet_14
+  - first:
+      213: -6912882058351014219
+    second: DASHSMOKE2-sheet_15
+  - first:
+      213: -3689025422799696999
+    second: DASHSMOKE2-sheet_16
+  - first:
+      213: -100731729142131613
+    second: DASHSMOKE2-sheet_17
+  - first:
+      213: 1411595604882040863
+    second: DASHSMOKE2-sheet_18
+  - first:
+      213: 4749386374630117874
+    second: DASHSMOKE2-sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edf830a15857baf0800000000000000
+      internalID: -380738535885832735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd3a934a8d7e7bc0800000000000000
+      internalID: -3783448604151497282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f50eee996a08310800000000000000
+      internalID: 1405306263807483728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 5
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562c1fb5aac1c6470800000000000000
+      internalID: 8389111723896980069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372fa52386b9aaaf0800000000000000
+      internalID: -384323946363030925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55be1c392ac11ac0800000000000000
+      internalID: -3886102724992912037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 13
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d5a2e65ee1b3b0800000000000000
+      internalID: -5498351613105547951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 29
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55520d6dc0b8b240800000000000000
+      internalID: 4807786998561658206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7490593e5177b56c0800000000000000
+      internalID: -4153595295422936761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5577c6ef597ae27c0800000000000000
+      internalID: -4094150748572715179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099830ada9c3ea210800000000000000
+      internalID: 1346079974410652048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 20
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40651887701504b0800000000000000
+      internalID: -5474951666428714929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87024614597d4980800000000000000
+      internalID: -8553046715249064052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 11
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8775f09477c47fe10800000000000000
+      internalID: 2231336215595931512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb75a6ede7a5cbb70800000000000000
+      internalID: 8916100863230629823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 77
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be01d9d4628010a0800000000000000
+      internalID: -6912882058351014219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b83aa5ce2fdccc0800000000000000
+      internalID: -3689025422799696999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3645fdaa6012a9ef0800000000000000
+      internalID: -100731729142131613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f182f7349bef69310800000000000000
+      internalID: 1411595604882040863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASHSMOKE2-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f198e09eb539e140800000000000000
+      internalID: 4749386374630117874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DASHSMOKE2-sheet_0: -380738535885832735
+      DASHSMOKE2-sheet_1: -3783448604151497282
+      DASHSMOKE2-sheet_10: 1346079974410652048
+      DASHSMOKE2-sheet_11: -5474951666428714929
+      DASHSMOKE2-sheet_12: -8553046715249064052
+      DASHSMOKE2-sheet_13: 2231336215595931512
+      DASHSMOKE2-sheet_14: 8916100863230629823
+      DASHSMOKE2-sheet_15: -6912882058351014219
+      DASHSMOKE2-sheet_16: -3689025422799696999
+      DASHSMOKE2-sheet_17: -100731729142131613
+      DASHSMOKE2-sheet_18: 1411595604882040863
+      DASHSMOKE2-sheet_19: 4749386374630117874
+      DASHSMOKE2-sheet_2: 1405306263807483728
+      DASHSMOKE2-sheet_3: 8389111723896980069
+      DASHSMOKE2-sheet_4: -384323946363030925
+      DASHSMOKE2-sheet_5: -3886102724992912037
+      DASHSMOKE2-sheet_6: -5498351613105547951
+      DASHSMOKE2-sheet_7: 4807786998561658206
+      DASHSMOKE2-sheet_8: -4153595295422936761
+      DASHSMOKE2-sheet_9: -4094150748572715179
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: e68f34992b256c6418114fa8c312337c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1909365311845995707
+    second: smoke-dash-large-sheet_0
+  - first:
+      213: -5313051808014062366
+    second: smoke-dash-large-sheet_1
+  - first:
+      213: 4668767462001330231
+    second: smoke-dash-large-sheet_2
+  - first:
+      213: -3478911240414153927
+    second: smoke-dash-large-sheet_3
+  - first:
+      213: 171021096331071798
+    second: smoke-dash-large-sheet_4
+  - first:
+      213: -1620516089786911069
+    second: smoke-dash-large-sheet_5
+  - first:
+      213: 8167137420581206997
+    second: smoke-dash-large-sheet_6
+  - first:
+      213: -6932719354656862779
+    second: smoke-dash-large-sheet_7
+  - first:
+      213: -7938947846092761682
+    second: smoke-dash-large-sheet_8
+  - first:
+      213: -5845246628934160003
+    second: smoke-dash-large-sheet_9
+  - first:
+      213: 4518009093541160965
+    second: smoke-dash-large-sheet_10
+  - first:
+      213: 1012321109272745835
+    second: smoke-dash-large-sheet_11
+  - first:
+      213: 7021090269257285401
+    second: smoke-dash-large-sheet_12
+  - first:
+      213: -5065806915269711592
+    second: smoke-dash-large-sheet_13
+  - first:
+      213: 6601447072112062093
+    second: smoke-dash-large-sheet_14
+  - first:
+      213: 5624934173017802651
+    second: smoke-dash-large-sheet_15
+  - first:
+      213: 7846048539812476502
+    second: smoke-dash-large-sheet_16
+  - first:
+      213: -6246394850463050859
+    second: smoke-dash-large-sheet_17
+  - first:
+      213: 8206726855180778101
+    second: smoke-dash-large-sheet_18
+  - first:
+      213: 3793554141044736432
+    second: smoke-dash-large-sheet_19
+  - first:
+      213: -4976368463540213041
+    second: smoke-dash-large-sheet_20
+  - first:
+      213: -2352150686398674663
+    second: smoke-dash-large-sheet_21
+  - first:
+      213: -1676810682472031638
+    second: smoke-dash-large-sheet_22
+  - first:
+      213: 1264629858379835196
+    second: smoke-dash-large-sheet_23
+  - first:
+      213: 4141803991957713577
+    second: smoke-dash-large-sheet_24
+  - first:
+      213: 5504133242444308404
+    second: smoke-dash-large-sheet_25
+  - first:
+      213: 4653251257016339183
+    second: smoke-dash-large-sheet_26
+  - first:
+      213: -6503993993305086174
+    second: smoke-dash-large-sheet_27
+  - first:
+      213: -8882642063402248054
+    second: smoke-dash-large-sheet_28
+  - first:
+      213: 6526366547454791912
+    second: smoke-dash-large-sheet_29
+  - first:
+      213: 4284086824270149379
+    second: smoke-dash-large-sheet_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4980782ad6f7a10800000000000000
+      internalID: 1909365311845995707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec2316c78f3446b0800000000000000
+      internalID: -5313051808014062366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738cd7f354bcac040800000000000000
+      internalID: 4668767462001330231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933300ea8ac68bfc0800000000000000
+      internalID: -3478911240414153927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 8
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63159efe7c69f5200800000000000000
+      internalID: 171021096331071798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a63273c335c289e0800000000000000
+      internalID: -1620516089786911069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 13
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbfa817630875170800000000000000
+      internalID: 8167137420581206997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 11
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdc3326a780acf90800000000000000
+      internalID: -6932719354656862779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 8
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5d94f0ff033d190800000000000000
+      internalID: -7938947846092761682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7174d1192381eea0800000000000000
+      internalID: -5845246628934160003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5086188455133be30800000000000000
+      internalID: 4518009093541160965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 19
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67d4d47fac7c0e00800000000000000
+      internalID: 1012321109272745835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f380b866cef6160800000000000000
+      internalID: 7021090269257285401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 11
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819a1aa4373a2b9b0800000000000000
+      internalID: -5065806915269711592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 13
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e28c8d22d0d9b50800000000000000
+      internalID: 6601447072112062093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978ea304d7cf0e40800000000000000
+      internalID: 5624934173017802651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656bef9a393c2ec60800000000000000
+      internalID: 7846048539812476502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 20
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59312537af85059a0800000000000000
+      internalID: -6246394850463050859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a75bbf79624e170800000000000000
+      internalID: 8206726855180778101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b10f25646965a430800000000000000
+      internalID: 3793554141044736432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaaa339f3360fab0800000000000000
+      internalID: -4976368463540213041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 18
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9190407b96b7b5fd0800000000000000
+      internalID: -2352150686398674663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 10
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a9ca38195cab8e0800000000000000
+      internalID: -1676810682472031638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 15
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c372519e72edc8110800000000000000
+      internalID: 1264629858379835196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a23fe559c4aa7930800000000000000
+      internalID: 4141803991957713577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfdf48950c926c40800000000000000
+      internalID: 5504133242444308404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 19
+        width: 132
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea49114d5ba39040800000000000000
+      internalID: 4653251257016339183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 5
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227a6c73ceb2db5a0800000000000000
+      internalID: -6503993993305086174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 7
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8857f70b148ab480800000000000000
+      internalID: -8882642063402248054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 5
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e01907fbcf429a50800000000000000
+      internalID: 6526366547454791912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-dash-large-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 7
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307bd83c442247b30800000000000000
+      internalID: 4284086824270149379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      smoke-dash-large-sheet_0: 1909365311845995707
+      smoke-dash-large-sheet_1: -5313051808014062366
+      smoke-dash-large-sheet_10: 4518009093541160965
+      smoke-dash-large-sheet_11: 1012321109272745835
+      smoke-dash-large-sheet_12: 7021090269257285401
+      smoke-dash-large-sheet_13: -5065806915269711592
+      smoke-dash-large-sheet_14: 6601447072112062093
+      smoke-dash-large-sheet_15: 5624934173017802651
+      smoke-dash-large-sheet_16: 7846048539812476502
+      smoke-dash-large-sheet_17: -6246394850463050859
+      smoke-dash-large-sheet_18: 8206726855180778101
+      smoke-dash-large-sheet_19: 3793554141044736432
+      smoke-dash-large-sheet_2: 4668767462001330231
+      smoke-dash-large-sheet_20: -4976368463540213041
+      smoke-dash-large-sheet_21: -2352150686398674663
+      smoke-dash-large-sheet_22: -1676810682472031638
+      smoke-dash-large-sheet_23: 1264629858379835196
+      smoke-dash-large-sheet_24: 4141803991957713577
+      smoke-dash-large-sheet_25: 5504133242444308404
+      smoke-dash-large-sheet_26: 4653251257016339183
+      smoke-dash-large-sheet_27: -6503993993305086174
+      smoke-dash-large-sheet_28: -8882642063402248054
+      smoke-dash-large-sheet_29: 6526366547454791912
+      smoke-dash-large-sheet_3: -3478911240414153927
+      smoke-dash-large-sheet_30: 4284086824270149379
+      smoke-dash-large-sheet_4: 171021096331071798
+      smoke-dash-large-sheet_5: -1620516089786911069
+      smoke-dash-large-sheet_6: 8167137420581206997
+      smoke-dash-large-sheet_7: -6932719354656862779
+      smoke-dash-large-sheet_8: -7938947846092761682
+      smoke-dash-large-sheet_9: -5845246628934160003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
